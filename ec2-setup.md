@@ -35,7 +35,7 @@ Create and connect to a virtual server using AWS EC2 Free Tier
 ![EC2 step5](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/05-ec2-create-step5.PNG)
 
 8. Connect to the instance from your termina using the command:
-ssh -i "my-key.pem" **ec2-user@<your-public-ip>** 
+ssh -i "my-key.pem" ec2-user@<your-public-ip> 
 [EC2 step6](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/06-gitbash-key-permission-change.PNG)
 
 9. ssh first connection
