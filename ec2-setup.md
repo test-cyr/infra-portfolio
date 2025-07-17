@@ -44,7 +44,7 @@ ssh -i "my-key.pem" ec2-user@<your-public-ip>
 
 ## Basic Info
 1. EC2 basic info
-![EC2 info](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/ec2-basic-info.PNG)
+![EC2 info](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/ec2-basic-info.JPG)
 
 ## Setup Apache Web Server
 1. **update the package manager:**
