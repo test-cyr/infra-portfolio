@@ -7,7 +7,6 @@ Set up a lcoal project folder to manage S3 practice files and documentation, and
 : mkdir aws-s3-static-website
 : cd aws-s3-static-website
 
-
 ![S3 step1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/setup_s3_step_1.PNG)
 
 ## Step 2 (Initialize a Git repository)
