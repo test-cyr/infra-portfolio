@@ -11,7 +11,7 @@ To make the website accessible to the public, I disabled all block public access
 **Acknowledged warning** Yes  
 
 ## Steps Taken
-1. Navigated to [AWS S3 Console](https://console.aws.amazon.com/s3)
+1. Navigated to [AWS S3 Console]`(https://console.aws.amazon.com/s3)`
 2. Clicked **Create bucket**  
 ![Bucket step1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/create_bucket_step1.PNG)
 3. Entered a unique bucket name: `s3-static-site-20250717`  
