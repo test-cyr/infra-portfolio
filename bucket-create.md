@@ -13,7 +13,7 @@ To make the website accessible to the public, I disabled all block public access
 ## Steps Taken
 1. Navigated to [AWS S3 Console]`(https://console.aws.amazon.com/s3)`
 2. Clicked **Create bucket**  
-![Bucket step1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/create_bucket_step1.PNG)
+![Bucket step1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/create_bucket_step1.png)
 3. Entered a unique bucket name: `s3-static-site-20250717`  
 ![Bucket step2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/create_bucket_step2.PNG)
 4. Chose the region: `ap-northeast-2 (Seoul)`  
