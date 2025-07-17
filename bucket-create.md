@@ -1,4 +1,4 @@
-<img width="1544" height="355" alt="image" src="https://github.com/user-attachments/assets/3c52c296-d473-4be3-8349-397b4e3eacb4" /># Create an S3 Bucket
+# Create an S3 Bucket
 
 ## Summary
 In this step, I created a new S3 bucket to prepare for static website hosting.
