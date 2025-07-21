@@ -1,6 +1,6 @@
 # AWS EC2 Practice
 
-This folder contains files to help parctice AWS EC2
+This folder contains files to help practice AWS EC2
 
 ## What I practiced
 - Understanding what EC2 is
