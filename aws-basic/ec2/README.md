@@ -10,4 +10,4 @@ This folder contains files to help practice AWS EC2
 - Terminating an EC2 instance
 
 ## Files in this folder
-ec2-setup.md : Step by step EC2 practice
+ec2-setup.md : Step by step EC2 practice log
