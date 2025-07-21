@@ -1,1 +1,13 @@
+# AWS EC2 Practice
 
+This folder contains files to help parctice AWS EC2
+
+## What I practiced
+- Understanding what EC2 is
+- Creating an EC2 instance
+- Generating and using SSH key pairs
+- Connecting to EC2 using SSH
+- Terminating an EC2 instance
+
+## Files in this folder
+ec2-setup.md : Step by step EC2 practice
