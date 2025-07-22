@@ -14,7 +14,7 @@ Grant an IAM user Read-only access to Amazon EC2 and verify the permission works
 - Go to **IAM > Users > test-user-iam > Add Permissions**
 - Chose "Attach policies directly"
 - Selected the policy : `AmazonEC2ReadOnlyAccess`
-![IAM step2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/iam-add-policy-2.PNG)
+![IAM step2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/iam-user-add-permissions.PNG)
 
 ## Step 3
 - Logged in again with the IAM user
