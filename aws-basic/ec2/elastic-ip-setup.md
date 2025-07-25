@@ -8,22 +8,22 @@ This ensures that the EC2 instance has a fixed public IP address, which does not
 **Allocate Elastic IP**  
 - Go to the AWS Management Console  
 - Navigate to **EC2 > Network & Security > Elastic IPs**  
-![Elastic_IP step1_1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step1_1.PNG)
+![Elastic_IP step1_1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step1_1.PNG)  
 - Click **Allicate Elastic IP address**  
-![Elastic_IP step1_2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step1_2.PNG)
+![Elastic_IP step1_2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step1_2.PNG)  
 - Confirm by clicking **Allocate**  
-![Elastic_IP step1_3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step1_3.PNG)
+![Elastic_IP step1_3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step1_3.PNG) 
 
 ## Step 2
 **Associate Elastic IP with EC2 Instance**  
 - Select the allocated Elastic IP  
-![Elastic_IP step2_1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_1.PNG)
+![Elastic_IP step2_1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_1.PNG) 
 - Click **Actions > Associate Elastic IP address**  
-![Elastic_IP step2_2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_2.PNG)
+![Elastic_IP step2_2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_2.PNG) 
 - Choose your EC2 instance from the dropdown list  
-![Elastic_IP step2_3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_3.PNG)
+![Elastic_IP step2_3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_3.PNG) 
 - Click **Associate**  
-![Elastic_IP step2_4](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_4.PNG)
+![Elastic_IP step2_4](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/elastic_step2_4.PNG) 
 
 ## Step 3
 **Verify Conndection**  
