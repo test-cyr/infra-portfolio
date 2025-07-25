@@ -15,5 +15,7 @@ This folder contains files to help practice AWS IAM
 - Root user
 
 ## Files in this folder
-
+iam-setup.md : Initial IAM setup practice   
+iam-policy-practice-ec2.md : Practice writing IAM policies for EC2 access  
+create-admin-user.md : Steps to create an IAM admin user
 
