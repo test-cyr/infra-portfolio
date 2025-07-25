@@ -10,7 +10,7 @@ This folder contains files to help practice AWS S3
 - Hosting a static website using S3
 
 ## Files in this folder
-s3-setup.md : Initial S3 setup practice
-bucket-create.md : Creating and configuring a bucket
+s3-setup.md : Initial S3 setup practice   
+bucket-create.md : Creating and configuring a bucket  
 upload-and-host.md : Uploading files and website hosting
 
