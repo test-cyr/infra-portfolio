@@ -8,6 +8,9 @@ This folder contains files to help practice AWS EC2
 - Generating and using SSH key pairs
 - Connecting to EC2 using SSH
 - Terminating an EC2 instance
+- Allocated and associated an Elastic IP to the EC2 instance 
+  to ensure a fixed IP address for consistent external access
 
 ## Files in this folder
-ec2-setup.md : Step by step EC2 practice log
+ec2-setup.md : Step by step EC2 practice log  
+elastic-ip-setup.md
