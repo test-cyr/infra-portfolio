@@ -8,9 +8,13 @@ This folder contains files to help practice AWS EC2
 - Generating and using SSH key pairs
 - Connecting to EC2 using SSH
 - Terminating an EC2 instance
-- Allocated and associated an Elastic IP to the EC2 instance 
-  to ensure a fixed IP address for consistent external access
+- Allocated and associated an Elastic IP to the EC2 instance to ensure a fixed IP address for consistent external access
+- Understanding Security Group inbound rules
+- Testing what happens when HTTP port (80) is closed
+- Re-opening port 80 and verifying web access
 
 ## Files in this folder
 ec2-setup.md : Step by step EC2 practice log  
-elastic-ip-setup.md
+elastic-ip-setup.md : 
+instell-nginx.md : 
+security-group-rule-test.md : 
