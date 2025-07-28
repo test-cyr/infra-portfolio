@@ -13,4 +13,5 @@ This folder contains files to help practice AWS S3
 s3-setup.md : Initial S3 setup practice   
 bucket-create.md : Creating and configuring a bucket  
 upload-and-host.md : Uploading files and website hosting
+s3-static-hosting.md : How to enable static website hosting adn set a bucket policy
 
