@@ -1,5 +1,3 @@
-<img width="1879" height="361" alt="image" src="https://github.com/user-attachments/assets/9389ae47-c13c-4c9c-b682-9a53072c32df" /># Automatically managing old object versions in Amazon S3
-
 ## Summary
 This step show how to automatically delete old object versions using an S3 lifecycle rule
 It helps save storage space and keep your bucket clean
