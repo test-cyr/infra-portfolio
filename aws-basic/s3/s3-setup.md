@@ -1,6 +1,6 @@
 # AWS S3 Static Website Hosting Practice
 
-## goal
+## Summary
 Set up a lcoal project folder to manage S3 practice files and documentation, and prepare for pushing to GitHub
 
 ## Step 1 (Create a local folder)
