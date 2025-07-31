@@ -1,6 +1,6 @@
 # Elastic IP Allocation and Association
 
-## Overview
+## Summary
 In this step, we allocate an Elastic IP AWS and associate it with our existing EC2 Instance
 This ensures that the EC2 instance has a fixed public IP address, which does not change even if the instance is stopped and restarted
 
