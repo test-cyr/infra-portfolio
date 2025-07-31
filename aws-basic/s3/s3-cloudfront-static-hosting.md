@@ -1,21 +1,27 @@
-# Connect an S3 static site to CloudFront for global content delivery
+# Hosting a Static Website using Amazon S3 + CloudFront
 
 ## Summary
-In this step, I connected my S3 static website to CloudFront to distribute content globally using a CDN
-I also configured cache behavior and tested access via a CloudFront domain
+In this step, we connect an existing S3 static website to Amazon CloudFront to enable caching, HTTPS access, and global content delivery
 
 ## Step 1
 **Create CloudFront Distribution**
 - Opened **CloudFront** from the AWS console
 - Clicked **Create Distribution**
+1-1
 - Under **Origin Domain**, selected my S3 static website bucket
-- Set **Origin Access Control(OAC)** to enabled (recommended)
-- Clicked **Create Distribution**
+1-2
+- Under **Viewer protocol policy**, choose `Redirect HTTP to HTTPS`
+1-3
+- Scroll down to **Default root objects** and enter `idnex.html`
+1-4
+- Create Distribution
+1-5
 
 ## Step 2
 **Wait for CloudFront Deployment**
 - Waited until the distribution status changed to **Deployed**
 - Copied the CloudFront domain name
+2-1, 2-2
 
 ## Step 3
 **Test the CloudFront URL**
