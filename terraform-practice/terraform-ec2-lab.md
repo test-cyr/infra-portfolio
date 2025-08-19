@@ -21,7 +21,17 @@ resource "aws_instance" "exmaple" {
     Name = "TerraformExample"
   }
 }
-5. **Initalized Terraform**
- - terraform init
- - terraform plan
- - terraform apply
+5. **Initalized Terraform**  
+ - terraform init  
+![Terraform_EC2_init](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/02_terraform_code_init.PNG)  
+ - terraform plan  
+![Terraform_EC2_plan](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/03_terraform_code_plan.PNG)  
+![Terraform_EC2_plan](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/03_terraform_code_plan_1.PNG)   
+ - terraform apply  
+![Terraform_EC2_plan](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/04_terraform_code_apply.PNG)  
+6. **Result EC2 Instance**
+![Terraform_EC2_Instacne](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/05_terraform_ec2_dashboard.PNG)  
+![Terraform_EC2_Instacne](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/05_terraform_ec2_dashboard_1.PNG)   
+7. **Terraform Destroy** 
+![Terraform_EC2_Instacne](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/06_terraform_code_destroy.PNG)   
+![Terraform_EC2_Instacne](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/07_terraform_ec2_destroy.PNG)
