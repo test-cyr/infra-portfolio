@@ -1,6 +1,6 @@
 # Terraform EC2 Practice
 This folder contains files to practice using **Terraform** with AWS EC2
-The goal was to learn Infrastructure as Code (IaC) by provisioning, managing, and destroying an EC2 instance with Terraform
+The goal was to learn Infrastructure as Code (IaC) by provisioning, managing, and destroying an EC2 instance, and automatically installing Nginx as a web server
 
 ## What I practiced
 - Installing and configuring Terraform
@@ -11,3 +11,4 @@ The goal was to learn Infrastructure as Code (IaC) by provisioning, managing, an
 - Applying the configuration with `terraform apply`
 - Destroying resources with `terraform destroy`
 - Understanding the workflow: **init → plan → apply → destroy**
+- Installing and configuring Nginx on the EC2 instance
