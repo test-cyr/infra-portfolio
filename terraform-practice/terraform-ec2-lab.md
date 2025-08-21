@@ -8,7 +8,7 @@ The purpose of this exercise is to gain hands-on experience with Infrastructure 
 1. **Created a new repository** on GitHub (`infra-portpolio/terraform-practice`)  
 2. **Installed Terraform** and set up environment variables for the executable  
 3. **Installed AWS CLI** and configured credentials with Access Key and Secret Key  
-4. **Wrote a `main.tf` file**
+4. **Wrote a `main.tf` file**  
 provider "aws" {  
   region = "ap-northeast-2"  
 }  
