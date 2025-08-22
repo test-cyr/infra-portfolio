@@ -34,3 +34,4 @@ This practice covers provisioning an AWS EC2 instance using Terraform and automa
 ![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step10_2.PNG)
  - git push  
 ![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step10_3.PNG)  
+![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step10_3_1.PNG)  
