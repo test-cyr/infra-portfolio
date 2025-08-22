@@ -26,4 +26,11 @@ This practice covers provisioning an AWS EC2 instance using Terraform and automa
 8. Verified Nginx default page 
 ![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step8.PNG)
 9. Nginx status Active  
-![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step9.PNG) 
+![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step9.PNG)
+10. Git Add, Commit, Push
+ - git add
+![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step10_1.PNG)
+ - git commit
+![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step10_2.PNG)
+ - git push  
+![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step10_3.PNG)  
