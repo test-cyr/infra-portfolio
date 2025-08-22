@@ -20,6 +20,7 @@ This practice covers provisioning an AWS EC2 instance using Terraform and automa
 ![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step6_2_1.PNG)  
  - Apply configuration : terraform apply  
 ![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step6_3.PNG)  
+![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step6_3_1.PNG)  
 7. Verified EC2 instance is running 
 ![Terraform_EC2_Nginx](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01_terraform_nginx_step7.PNG)  
 8. Verified Nginx default page
