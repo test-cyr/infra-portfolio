@@ -1,6 +1,6 @@
 # Python basic systax
 
 ## Summary
-Python practice : The basic syntax, variables, loops, conditions
+Recover Python basic syntax skills (variables, loops, conditions)
 
 
