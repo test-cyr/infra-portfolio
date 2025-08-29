@@ -18,4 +18,4 @@ generate_report.py
  - Generate a viusual report  
 ![Generate_report](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/generate_report.PNG)  
 ![Generate_report](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/result_csv.PNG)  
-![Generate_Error_report](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/error_report.PNG)  
+![Generate_Error_report](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/error_report.png)  
