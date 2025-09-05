@@ -43,28 +43,29 @@ ssh -i "my-key.pem" `ec2-user@<your-public-ip>`
 ![EC2 step8](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/08-ec2-ssh-success.PNG)
 
 ## Basic Info
-1. EC2 basic info
+1. EC2 basic info 
 ![EC2 info](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/ec2-basic-info.JPG)
 
-## Setup Apache Web Server
-1. **update the package manager:**
-: sudo yum update -y
-![Setup Apache 1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01-yum-update.PNG)
+## Setup Apache Web Server 
+1. **update the package manager:** 
+: sudo yum update -y 
+![Setup Apache 1](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/01-yum-update.PNG) 
 
-2. Install Apache
-: sudo yum install httpd -y
-![Setup Apache 2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/02-httpd-install.PNG)
-![Setup Apache 2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/02-httpd-install_2.PNG)
+2. Install Apache 
+: sudo yum install httpd -y 
+![Setup Apache 2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/02-httpd-install.PNG)  
+![Setup Apache 2](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/02-httpd-install_2.PNG)  
 
-3. Start and enable Apache
-: sudo systemctl start httpd
-: sudo systemctl enable httpd
-![Setup Apache 3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/03-start-apache.PNG)
+3. Start and enable Apache 
+: sudo systemctl start httpd 
+: sudo systemctl enable httpd 
+![Setup Apache 3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/03-start-apache.PNG) 
 
-4. Check the Apache default page
-![Setup Apache 4](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/04-apache-default.PNG)
+4. Check the Apache default page 
+![Setup Apache 4](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/04-apache-default.PNG) 
 
-5. Create a custom index page
-: echo "<h1>Hello from EC2</h1>" | sudo tee /var/www/html/index.html
-![Setup Apache 5](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/05-apache-custom-command.PNG)
+5. Create a custom index page 
+: echo "<h1>Hello from EC2</h1>" | sudo tee /var/www/html/index.html 
+![Setup Apache 5](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/05-apache-custom-command.PNG) 
 ![Setup Apache 6](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/06-apache-custom-reslut.PNG)
+
