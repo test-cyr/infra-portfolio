@@ -14,9 +14,13 @@ The project automatically provisions the core AWS infrastructure components for 
  - Navigate to the proejct directory
  - Initialize Terraform to download the necessary provider plugins (terraform init)
  - Review the execution plan to see which resources will be created (terraform plan)
- - Apply the configuration to provision the infrastructure on AWS account (terraform apply)
+ - Apply the configuration to provision the infrastructure on AWS account (terraform apply)  
+![Terraform_EC2_init](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/success_terraform_apply.PNG)  
  - Type yes when prompted to confirm the action
 
 # Step 3: Verify
- - Upon successful completion of terraform apply, the public IP address of the EC2 instance will be displayed on terminal
- - Access the Nginx welcome page by entering this IP into a web brower
+ - Upon successful completion of terraform apply, the public IP address of the EC2 instance will be displayed on terminal  
+![Terraform_EC2_init](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/success_ec2_instance.PNG)   
+![Terraform_EC2_init](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/success_vpc.PNG)   
+ - Access the Nginx welcome page by entering this IP into a web brower   
+![Terraform_EC2_init](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/success_nginx_default_page.PNG)
