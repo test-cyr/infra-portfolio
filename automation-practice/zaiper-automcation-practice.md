@@ -1,7 +1,7 @@
 # Zapier Automcation Practice
 
 ## Summary
-This project is a Zapier automcation practice to connect Google Forms, Google Sheets, Zapier, and Gmail
+This project is a simple Zapier automcation practice to connect Google Forms, Google Sheets, and Gmail
 
 ## Step 1
  - Open Google forms 
