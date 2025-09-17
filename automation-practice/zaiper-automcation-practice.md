@@ -13,12 +13,12 @@ This project is a simple Zapier automcation practice to connect Google Forms, Go
  - Create a new Google Spreadsheet 
 ![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_3_make_sheet.PNG)  
  - Verify the connection 
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_4_posting.PNG)  
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_4_posting_02.PNG)  
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_4_posting.png)  
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_4_posting_02.png)  
  - Copy the respondent link 
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_5_link_copy.PNG)  
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_5_link_copy.png)  
  - Submit a test response 
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_6_advance_response.PNG)  
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_6_advance_response.png)  
  - Check the Google Sheet records 
 ![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step1_7_check_response.PNG)  
 
