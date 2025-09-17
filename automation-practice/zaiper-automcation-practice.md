@@ -1,8 +1,7 @@
 # Zapier Automcation Practice
 
 ## Summary
-This project is a Zapier automcation practice to connect Google Forms, Google Sheets, ChatGPT, and Gmail
-The goal is to automate the process of collecting form responses, generating email content using ChatGPT, and sending emails automatically
+This project is a Zapier automcation practice to connect Google Forms, Google Sheets, Zapier, and Gmail
 
 ## Step 1
  - Open Google forms 
@@ -33,9 +32,16 @@ The goal is to automate the process of collecting form responses, generating ema
  - Success test trigger
 ![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step2_3_test_trigger.PNG)  
 ![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step2_3_1_success_test.PNG)  
- - Set action Formatter by Zapier  
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step2_4_set_action.PNG)  
- - Set configure  
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step2_5_set_configure.PNG)  
- - Success test action  
-![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step2_5_success_test.PNG)
+
+## Step 3
+ - Add gmail  
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step3_add_gmail.PNG)  
+ - Set mail
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step3_1_set_gmail.PNG)  
+ - Set configure 
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step3_2_set_mail_configure.PNG)  
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step3_2_1_set_mail_configure.PNG)  
+ - Success mail test 
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step3_3_success_test.PNG)  
+ - Publish and Send mail 
+![Automation_practice](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/step3_4_publish_send_mail.PNG)  
