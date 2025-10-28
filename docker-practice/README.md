@@ -11,12 +11,13 @@ This folder contains files to help practice containerizing and deploying a Flask
 - Accessing the application through a public endpoint
 - Reviewing ECS task logs and container status
 
-## Files in this folder
-app.py : Simple Flask web application
-requirements.txt : Python dependencies for Flask
-Dockerfile : Instructions for building the Docker file
-ecs-deploy.md : Steps for deploying the app to AWS ECS
-ecr-push.md : Commands to push Docker image to AWS ECR
+## Files in this folder 
+app.py : Simple Flask web application  
+requirements.txt : Python dependencies for Flask  
+Dockerfile : Instructions for building the Docker file  
+ecs-deploy.md : Steps for deploying the app to AWS ECS  
+ecr-push.md : Commands to push Docker image to AWS ECR  
 README.md : Overview of the project
+
 
 
