@@ -17,4 +17,5 @@ Setup the project and prepare the environment for building and containerizing a 
 - sace this file inside `docs` folder    
 ![Project_step3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/03-create-docs-folder.PNG)  
 
-## Step4. Create docs folder & images folder
+## Step4. 
+
