@@ -14,8 +14,9 @@ Setup the project and prepare the environment for building and containerizing a 
 
 ## Step3. Create Docs Structure & Save Guide File 
 - create a `docs`  folder  
-- sace this file inside `docs` folder    
+- save this file inside `docs` folder    
 ![Project_step3](https://raw.githubusercontent.com/test-cyr/infra-portfolio/main/images/03-create-docs-folder.PNG)  
 
 ## Step4. 
+
 
